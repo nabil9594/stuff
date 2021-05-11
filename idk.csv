@@ -1,0 +1,4 @@
+﻿type ,id,title,year,chapters,available
+Ebook,123,cats,2020,20,TRUE
+Music,456,cows,2010,12,FALSE
+Video,789,bats,2017,13,TRUE
